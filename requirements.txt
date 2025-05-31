@@ -1,0 +1,8 @@
+chromedriver-autoinstaller==0.6.4
+undetected-chromedriver==2.0.0
+selenium==4.17.2 
+selenium-wire==5.1.0
+seleniumbase==4.23.2
+pandas==2.2.0
+webdriver-manager==4.0.2
+openpyxl==3.1.5

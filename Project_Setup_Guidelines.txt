@@ -1,0 +1,8 @@
+Setup Process: Use the provided setup.bat file to automatically install Python and all necessary dependencies for the project.
+
+Running the Automation: Execute the main_eServicesAut.bat file to automatically run the entire automation process.
+
+Workflow Overview
+1. Initializing Automation: The automation script initializes by setting up browser instance and handling authentication for eServices Portal
+
+2. Performing Login and Data Extraction: The script logs into the portal using provided credentials and fill the patient data one by one to extract the remaining information of the patient and then saves in the same file
